@@ -30,5 +30,13 @@ NoteApp-React has been developed and tested with the following versions:
 - Node.js: 14.17.0
 - npm: 6.14.13
 
+## Screenshot
+![image](https://github.com/Rana0001/NoteApp-React/assets/51354885/6ae37916-aa19-4eaa-add2-998ff83272c8)
+
+![image](https://github.com/Rana0001/NoteApp-React/assets/51354885/544e63f4-5a4b-49bf-95b6-3c8e2842bc3e)
+
+![image](https://github.com/Rana0001/NoteApp-React/assets/51354885/70dbaa8a-5101-4288-a6ee-96089e06b4b3)
+
+
 
 
